@@ -1,0 +1,8 @@
+name = "StatsModelsTools"
+uuid = "ecc0a83b-8bfa-4095-a08e-4b0fbbb0e106"
+authors = ["Henry Hammond <henry.hammond@shopify.com>"]
+version = "0.1.0"
+
+[deps]
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
