@@ -1,3 +1,8 @@
+"""Polynomial regression interface
+
+Taken from https://juliastats.github.io/StatsModels.jl/stable/internals/#extending-1
+"""
+
 module Polynomials
 
 using StatsModels
